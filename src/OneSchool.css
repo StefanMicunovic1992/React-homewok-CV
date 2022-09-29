@@ -1,0 +1,13 @@
+.oneSchoole{
+    padding: 20px;
+    display: flex;
+}
+
+.time{
+    width: 20%;
+}
+
+.nameDesc{
+    width: 70%;
+    
+}

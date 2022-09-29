@@ -1,0 +1,16 @@
+.hoobiesAndSkilsDiv{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+}

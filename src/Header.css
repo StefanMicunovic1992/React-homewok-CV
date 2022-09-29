@@ -1,0 +1,23 @@
+.headerDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    gap: 10px;
+}
+
+.icon{
+    display: inline;
+}
+
+p{
+    display: inline;
+}
+
+hr{
+    margin-top: 50px;
+    width: 100%;
+    background-color: black;
+    height: 4px;
+}
