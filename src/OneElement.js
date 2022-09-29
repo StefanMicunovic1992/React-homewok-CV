@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { FaHtml5 } from 'react-icons/fa';
 import './OneElement.css';
 
 class OneElement extends Component{
